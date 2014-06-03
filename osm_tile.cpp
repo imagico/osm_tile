@@ -1,7 +1,7 @@
 /* ========================================================================
     File: @(#)osm_tile.cpp
    ------------------------------------------------------------------------
-    osm_tile statistical landuse generalization
+    osm_tile OSM file splitter
     Copyright (C) 2013-2014 Christoph Hormann <chris_hormann@gmx.de>
     based on code from Osmium/OSMCoastline 
     Copyright (C) 2012 Jochen Topf <jochen@topf.org>
