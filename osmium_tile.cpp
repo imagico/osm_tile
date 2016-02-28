@@ -21,6 +21,9 @@
     along with osmium_tile.  If not, see <http://www.gnu.org/licenses/>.
 */
 
+// wget "http://download.geofabrik.de/europe/germany/baden-wuerttemberg/freiburg-regbez-latest.osm.pbf"
+// osmium_tile -b 7.7,47.9,7.8,48:7.8,47.9,7.9,48 -o 1.osm:2.osm freiburg-regbez-latest.osm.pbf
+
 #include <algorithm>
 #include <getopt.h>
 #include <iostream>
